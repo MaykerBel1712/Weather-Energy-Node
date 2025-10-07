@@ -55,7 +55,7 @@ media/             → Imágenes, videos y capturas del sistema
 
 ---
 
-## ☁️ Infraestructura general
+##  Infraestructura general
 
 El sistema opera bajo el siguiente flujo:
 
@@ -89,6 +89,6 @@ El sistema opera bajo el siguiente flujo:
 
 ---
 
-## 🪪 Licencia
+##  Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**, permitiendo su uso académico y de investigación.
