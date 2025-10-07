@@ -80,11 +80,11 @@ El sistema opera bajo el siguiente flujo:
 
 * Mayker Beltrán
   *Ingeniería Electrónica — Universidad Francisco de Paula Santander (UFPS)*
-* Mayker Beltrán
+* Jesús López
   *Ingeniería Electrónica — Universidad Francisco de Paula Santander (UFPS)*
-* Mayker Beltrán
+* Sergio Sepúlveda
   *Ingeniería Electrónica — Universidad Francisco de Paula Santander (UFPS)*
-* Mayker Beltrán
+* Mario Illera
   *Ingeniería Electrónica — Universidad Francisco de Paula Santander (UFPS)*
 
 ---
