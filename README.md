@@ -1,0 +1,2 @@
+# Sistemas-de-gesti-n-energ-tica-y-monitoreo-de-variables-ambientales-Weather-Energy-Node
+Este proyecto corresponde al desarrollo de una plataforma integral de monitoreo y gestiónpara el edificio de Aulas Generales de la Universidad Francisco de Paula Santander (UFPS). Combina módulos de estación meteorológica, monitoreo energético y domótica, integrados a una plataforma web interactiva con visualización de datos en tiempo real.
