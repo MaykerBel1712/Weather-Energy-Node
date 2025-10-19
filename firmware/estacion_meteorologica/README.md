@@ -36,7 +36,6 @@
   - Apogee SP110
   - QS-FS201
   - 
-![Diagrama de elementos ambientales](docs/Elementos/Elementos_ambiental.svg)
 
 - Conversor análogo digital ADC1115
 - Conexiones recomendadas:
