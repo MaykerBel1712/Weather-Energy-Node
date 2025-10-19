@@ -48,9 +48,7 @@ Cada subcarpeta incluye su propio `README.md` explicando su función y configura
 ```
 firmware/          → Códigos de los ESP32
 web_app/           → Página web del sistema
-database/          → Estructura y configuración de Firebase
-docs/              → Documentación técnica y diagramas
-media/             → Imágenes, videos y capturas del sistema
+docs/              → Documentación técnica, diagramas e imágenes del proceso de desarrollo
 ```
 
 ---
@@ -71,7 +69,6 @@ El sistema opera bajo el siguiente flujo:
 * **ESP32** (Programado en PlatformIO / Arduino)
 * **Firebase Realtime Database & Hosting**
 * **Next.js + Tailwind CSS + shadcn**
-* **Plotly.js** (gráficas interactivas)
 * **C++ / JavaScript / HTML / CSS**
 
 ---
