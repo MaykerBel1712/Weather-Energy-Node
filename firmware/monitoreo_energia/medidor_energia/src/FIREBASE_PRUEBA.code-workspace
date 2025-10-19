@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../FIREBASE_PRUEBA"
+		},
+		{
+			"name": "ESCRIBIR",
+			"path": "../../../../FIREBASE_PRUEBA/ESCRIBIR/ESCRIBIR"
+		},
+		{
+			"name": "Proyecto_comunicaciones",
+			"path": "../../../../../NOVENO/SISTEM_COM_2/PROYECTO/CODIGO/SEGUNDO/Proyecto_comunicaciones"
+		},
+		{
+			"name": "prueba_2_medidor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
