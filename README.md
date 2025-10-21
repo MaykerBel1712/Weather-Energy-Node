@@ -46,6 +46,7 @@ Combina módulos de **estación meteorológica**, **monitoreo energético** y **
 Cada subcarpeta incluye su propio `README.md` explicando su función y configuración.
 
 ```
+.gerber/           → Archivos de los circuitos impresos
 firmware/          → Códigos de los ESP32
 web_app/           → Página web del sistema
 docs/              → Documentación técnica, diagramas e imágenes del proceso de desarrollo
